@@ -1,0 +1,4 @@
+applications:
+  - name: oya-kyori
+    random-route: true,
+    memory: 64M
